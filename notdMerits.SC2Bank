@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Merits">
+        <Key name="Count">
+            <Value int="0"/>
+        </Key>
+        <Key name="Handles">
+            <Value string=" "/>
+        </Key>
+    </Section>
+    <Section name="Demerits">
+        <Key name="Count">
+            <Value int="0"/>
+        </Key>
+        <Key name="Handles">
+            <Value string=" "/>
+        </Key>
+    </Section>
+</Bank>
